@@ -5,5 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": "git@github.com:stelmonitos/BooksApp-UnitTesting.git",
+  "author": "Jakub Stelmasiak <stelmon3@gmail.com>"
 }
